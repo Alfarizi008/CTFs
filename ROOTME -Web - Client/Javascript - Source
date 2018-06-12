@@ -1,0 +1,6 @@
+Steps : 
+1 - Cancel Prompt window
+2 - View Page Source 
+3 - Password exist on if statement
+if ( pass == "123456azerty" ) {
+Flag : 123456azerty
