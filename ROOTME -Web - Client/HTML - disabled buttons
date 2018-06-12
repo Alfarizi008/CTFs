@@ -1,0 +1,11 @@
+This form is disabled and can not be used. It’s up to you to find a way to use it.
+
+Steps :
+1 - open inspect element (f12)
+2 - Select Text Box by " pic of an element from the page Tool " 
+3 - Delete disabled attribute
+Same Steps for Submit Button :))
+4 - Send Any Value 
+Well Done , success msg :  Member access granted! The validation password is HTMLCantStopYou
+
+password is : HTMLCantStopYou
