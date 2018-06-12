@@ -5,6 +5,12 @@ Steps :
 2 - Select Text Box by " pic of an element from the page Tool " 
 3 - Delete disabled attribute
 Same Steps for Submit Button :))
+
+Results : 
+
+<input  type="text" name="auth-login" value="" />
+<input  type="submit" value="Member access" name="authbutton" />
+                
 4 - Send Any Value 
 Well Done , success msg :  Member access granted! The validation password is HTMLCantStopYou
 
