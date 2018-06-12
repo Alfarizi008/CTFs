@@ -1,0 +1,8 @@
+Steps :
+1 - Open Page Source 
+2 - js Source  "view-source:http://challenge01.root-me.org/web-client/ch11/login.js"
+3 - You Can Find The Username and Passowrd On The list :) 
+    var TheLists = ["GOD:HIDDEN"];
+User Name : GOD
+Password : HIDDEN
+Flag : HIDDEN
