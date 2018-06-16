@@ -1,0 +1,4 @@
+1 - Open code sourse " view-source:http://challenge01.root-me.org/web-client/ch4/ch4.html " 
+You Will find "               pass = '%63%70%61%73%62%69%65%6e%64%75%72%70%61%73%73%77%6f%72%64';               ""
+Decode it with url 
+password  = cpasbiendurpassword
