@@ -1,0 +1,6 @@
+Hint : 
+Don’t trust your browser 
+Get access to index.
+so , we will use proxy ...
+intercept http://challenge01.root-me.org/web-serveur/ch32/index.php by the proxy and view The response :D 
+The flag is : ExecutionAfterRedirectIsBad :33
