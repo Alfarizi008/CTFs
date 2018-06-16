@@ -1,0 +1,5 @@
+open proxy ( burp suite ) 
+you will found - Header-RootMe-Admin: none - on the response tab 
+ok you will create request appended Header-RootMe-Admin: true ..
+
+Flag : HeadersMayBeUseful
