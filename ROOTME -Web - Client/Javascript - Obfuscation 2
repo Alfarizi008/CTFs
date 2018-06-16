@@ -1,0 +1,8 @@
+open source code  >> view-source:http://challenge01.root-me.org/web-client/ch12/ch12.html
+Well , in this case we will use eval func to evaluate variable pass :
+1 - open browser console and execute 
+~ password = eval(pass) 
+result  = String.fromCharCode(104,68,117,102,106,100,107,105,49,53,54)
+~ eval(password)
+final result : password = hDufjdki156 
+Well Done :) :) 
