@@ -1,0 +1,9 @@
+Ok , in this case we will download index.php file by add index.php~ to url :""
+        challenge01.root-me.org/web-serveur/ch11/index.php~
+ open it by any text editor :"D 
+
+$username="ch11";
+$password="OCCY9AcNm1tj";
+flag = OCCY9AcNm1tj
+
+ 
