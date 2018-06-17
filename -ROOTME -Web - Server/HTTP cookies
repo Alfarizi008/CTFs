@@ -1,0 +1,10 @@
+we Will change set-cookie Header To admin ..
+We will do that with js :D but first view page source .. you will find cookie name :D 
+          <!--SetCookie("ch7","visiteur");-->
+ Great , open browser console .. 
+ document.cookie'ch7=admin' 
+ then click on " saved email adresses" 
+ well done :D 
+ 
+ 
+ Flag : ml-SYMPA
