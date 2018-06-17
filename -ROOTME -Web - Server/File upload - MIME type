@@ -1,0 +1,7 @@
+We Will use proxy To edit MIME Type in the request :D 
+
+intercept uploading shell by your proxy and edit "Content-Type: application/x-php" To "Content-Type: image/png "
+open Your Image from upload page ..
+      http://challenge01.root-me.org/web-serveur/ch21/galerie/upload/a2iip83e1vkerbrcaf52d8j951//sell.php
+ Well Done
+ flag : a7n4nizpgQgnPERy89uanf6T4 
