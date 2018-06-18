@@ -1,7 +1,7 @@
 Steps : 
 1 - View Page Source 
 2 - open js src " view-source:http://challenge01.root-me.org/web-client/ch9/login.js " 
-3 - You can find form username and password on if statement : 
+3 - You can find username and password on if statement : 
 if (pseudo=="4dm1n" && password=="sh.org")
 UserName : 4dm1n
 Password : sh.org
