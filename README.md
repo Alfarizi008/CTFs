@@ -1,2 +1,2 @@
 # CTFs
-Tools And Writeups
+# Writeups
